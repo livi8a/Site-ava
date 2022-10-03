@@ -108,9 +108,9 @@ li a:hover:not(.active) {
   right: 0;
   background-color: #fff;
   border-top-left-radius: 150px;
-  height: 100%;
   top: 46%;
   z-index: -1;
+ padding-top: 100px; 
 }
 
 .content h1 {
@@ -191,7 +191,6 @@ th{
   font-weight: bold;
 }
 
-}
 
 /* Float four columns side by side */
 .column {
@@ -238,7 +237,6 @@ background-color: rgb(255, 255, 255);
   color: #20941A;
 }
 
-}
 
 /* .mat {
   display: inline-block;
